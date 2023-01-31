@@ -11,16 +11,14 @@ permalink: /credits
 * [My dad](https://github.com/aboisvert), for gettng me hooked into the tech rabbit hole.  :)
 ## This site is open-source!
 Check out the source code [on GitHub](https://github.com/AlphaGameDeveloper/AlphaGameDeveloper.github.io/)
-### How to make a website:
-{% highlight python %}
-def life():
-    return debug()
-def debug():
-    return life()
+## Words for all programmers out there:
+>The road to wisdom? - Well, it's plain\
+and simple to express:\
+&emsp;Err\
+&emsp;and err\
+&emsp;and err again.\
+&emsp;but less\
+&emsp;and less\
+&emsp;and less.
 
-if __name__ == "__main__":
-    alive = True # I'm alive, right?
-    while alive == True:
-        debug()
-{% endhighlight %}
-*That's life :)*
+I think everyone should have at least one moment in their life where that comes to mind.  :)
