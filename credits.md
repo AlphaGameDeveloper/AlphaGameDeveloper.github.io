@@ -21,4 +21,8 @@ and simple to express:\
 &emsp;and less\
 &emsp;and less.
 
+<<<<<<< HEAD
 I think everyone should have at least one moment in their life where that comes to mind.  :)
+=======
+I think everyone should have at least one moment in their life where that comes to mind.  :)
+>>>>>>> 012e8777357b1986d0bd7852b20040379cb4773a
