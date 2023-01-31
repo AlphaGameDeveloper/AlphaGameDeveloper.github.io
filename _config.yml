@@ -22,8 +22,8 @@ title: AlphaGameDeveloper
 email: damien@alphagame.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Open-Source enthusiast, programmer, and game-making lunatic.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://alphagamedeveloper.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # I don't use Twitter!
 #twitter_username: jekyllrb
 github_username:  AlphaGameDeveloper
@@ -37,7 +37,7 @@ plugins:
 
 navigation:
   exclude:
-    - /blog/posts/*
+    - /blog/posts/*.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
