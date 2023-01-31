@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home - AlphaGameDeveloper"
+title: "Home"
 permalink: /
 ---
 # AlphaGameDeveloper
